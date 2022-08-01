@@ -1,3 +1,3 @@
 print("Viktorija Piziča")
 
-# Izvadi savu vārdu
+print("Vēl viens")
